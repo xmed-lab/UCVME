@@ -86,4 +86,14 @@ To run with the pretrained model weights, replace the `.pts` files in the target
 ## Citation
 If this code is useful for your research, please consider citing:
 
-(to be released)
+'''
+@article{dai2023semi,
+  title={Semi-Supervised Deep Regression with Uncertainty Consistency and Variational Model Ensembling via Bayesian Neural Networks},
+  author={Dai, Weihang and Li, Xiaomeng and Cheng, Kwang-Ting},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={6},
+  pages={7304--7313},
+  year={2023}
+}
+'''
